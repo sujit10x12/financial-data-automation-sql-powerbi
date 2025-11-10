@@ -221,7 +221,7 @@ After extracting data from the SQL view (`vwGLTrans`) created in **Azure Data St
 
 ### 🧩 Steps to Build the Income Statement & Balance Sheet
 
-<img width="1584" height="396" alt="banner" src="/images/income-statement.png" />
+<img width="1584" height="396" alt="Income Statement" src="/images/income-statement.png" />
 
 #### 1️⃣ Create a Custom Headers Table in Excel
 - Designed a **Headers Table** to control the contents and appearance of the financial statements.
@@ -326,7 +326,7 @@ Is Subtotal & Is Not Filtered = [Is Subtotal] && [Is Not Filtered]
 
 ## 🧾 Balance Sheet DAX Calculation
 
-<img width="1584" height="396" alt="banner" src="/images/balance-sheet.png" />
+<img width="1584" height="396" alt="Balance Sheet" src="/images/balance-sheet.png" />
 
 ### 🧩 Steps to Build the Balance Sheet
 
@@ -485,7 +485,7 @@ By migrating the model to Excel, the finance team retained **live connectivity**
 
 ### 📊 Income Statement
 
-<img width="686" height="496" alt="income_statement_excel" src="https://github.com/user-attachments/assets/db847acf-a53d-4576-9d2e-4c10928c47d4" />
+<img width="686" height="496" alt="Income Statement" src="/images/income_statement_excel.png" />
 
 ---
 
@@ -520,7 +520,7 @@ By migrating the model to Excel, the finance team retained **live connectivity**
 
 ### 🧾 Balance Sheet Statement
 
-<img width="1080" height="1034" alt="Untitled design" src="https://github.com/user-attachments/assets/24e16c9d-ee7f-4f22-b984-6bbe7d77144a" />
+<img width="1080" height="1034" alt="Balance Sheet" src="/images/balance_sheet_excel.png" />
 
 ---
 
@@ -558,7 +558,7 @@ By migrating the model to Excel, the finance team retained **live connectivity**
 
 ### 🧾 Steps to Build the Cash Flow Statement
 
-<img width="730" height="550" alt="cash_flow_excel" src="https://github.com/user-attachments/assets/30210f97-5517-45bb-88ac-476057bd58ea" />
+<img width="730" height="550" alt="Cash Flow" src="/images/cash_flow_excel.png" />
 
 ---
 
